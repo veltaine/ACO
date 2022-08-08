@@ -5,6 +5,8 @@ Updated code to potentially trim from final layout, lots of cleaning up of secti
 Placed product pictures in product section, to be added with links.
 
 
+
+***BASED ON ORIGINAL THEME BY:***
 Landed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
