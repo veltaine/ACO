@@ -2186,7 +2186,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #f0062f;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -2255,7 +2255,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #e44c65;
+			border-color: #f0062f;
 		}
 
 	select {
@@ -3139,15 +3139,23 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #f0062d;
 		}
+
+		/* .spotlight.style2 .content {
+			border-color: #5480f1;
+		} */
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: #f0062d;
 		}
 
-		.spotlight.style3 .content {
+		/* .spotlight.style3 .content {
 			border-color: #39c088;
+		} */
+
+		.spotlight.style3 .content {
+			border-color: #f0062d;
 		}
 
 		.spotlight.inactive .content {
